@@ -8,7 +8,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.SQLWarning;
 
-public class asg5 {
+public class jdbc_app {
     static private boolean debug = true;
 
     // JDBC driver name and database URL
